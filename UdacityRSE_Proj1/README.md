@@ -22,16 +22,16 @@ This project consists of the following files for a Gazebo Simulation:
 ✅ At least one color.
 
 ### Model
-- Object is different than the one shown in the sample simulation world.
+✅ Object is different than the one shown in the sample simulation world.
 
-- Object links are connected through joints.
+✅ Object links are connected through joints.
 
 ### World
 ✅ World is different than the one shown in the sample simulation world.
 
 ✅ Contains the structure model.
 
--  Contains two instances of the object model.
+✅  Contains two instances of the object model.
 
 ✅ Contains one model from the Gazebo online library.
 
