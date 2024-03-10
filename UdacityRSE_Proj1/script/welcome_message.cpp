@@ -7,6 +7,7 @@ namespace gazebo
 	{
 		public: Project1Plugin() : WorldPlugin()
 		{
+			//Assuming linux environment. This is extra, so only minimal error checking
 			char* username;
 			username = getenv("LOGNAME");		
 			
